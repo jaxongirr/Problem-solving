@@ -5,4 +5,7 @@
 
 ## 2 SQL practice
 ### PostgreSQL Exercises 
-#### Basic and Joins and Subqueries solutions
+#### Basic, Joins and Subqueries solutions
+
+## 3 Stepik practice
+### Adaptive Java solutions
